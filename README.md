@@ -42,6 +42,7 @@ Optimisation and Quality of Life mods for Minecraft.
 - (No Chat Reports)
 - (Noisium)
 - (Nvidium)
+- OfflineSkins
 - (Raised)
 - Reese's Sodium Options
 - Sodium

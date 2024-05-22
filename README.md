@@ -1,4 +1,4 @@
-# ExPack for Minecraft 1.20.5
+# ExPack for Minecraft 1.20.6
 
 Optimisation and Quality of Life mods for Minecraft.
 
@@ -15,33 +15,34 @@ Optimisation and Quality of Life mods for Minecraft.
 ### Mods
 
 - (AntiGhost)
-- (BadOptimizations)
-- (Better Ping Display)
-- (Better Statistics Screen)
-- (Bobby)
+- BadOptimizations
+- Better Ping Display [UNOFFICIAL-BUILD]
+- Better Statistics Screen
+- Bobby
 - Chat Heads
 - Cloth Config API
 - Detail Armor Bar
 - (Distant Horizons)
 - (Dynamic Lights)
-- (Enhanced Block Entities)
+- Enhanced Block Entities [PREVIEW]
 - Entity Culling
-- (Essential)
+- Essential
 - Fabric API
-- (FerriteCore)
-- (ImmediatelyFast)
-- (Indium)
-- (Iris)
-- (Lithium)
+- FerriteCore [BETA]
+- ImmediatelyFast
+- Indium
+- Iris
+- Lithium
 - (Memory Leak Fix)
-- (MidnightLib)
+- MidnightLib
 - ModernFix
 - Mod Menu [BETA]
 - More Chat History
-- (More Culling)
-- (No Chat Reports)
+- More Culling
+- No Chat Reports
 - (Noisium)
-- (Nvidium)
+- Nvidium [BETA]
+- OfflineSkins
 - (Raised)
 - Reese's Sodium Options
 - Sodium

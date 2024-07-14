@@ -55,7 +55,6 @@ Optimisation and Quality of Life mods for Minecraft.
 
 ### Resource packs
 
-- Better Enchantment Names
 - Visual Brush Durability
 - VanillaTweaks:
   - JappaStatsIcons

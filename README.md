@@ -1,4 +1,4 @@
-# ExPack for Minecraft 1.20.6
+# ExPack for Minecraft 1.21
 
 Optimisation and Quality of Life mods for Minecraft.
 
@@ -14,39 +14,38 @@ Optimisation and Quality of Life mods for Minecraft.
 
 ### Mods
 
-- (AntiGhost)
 - BadOptimizations
-- Better Ping Display [UNOFFICIAL-BUILD]
+- Better Ping Display
 - Better Statistics Screen
 - Bobby
 - Chat Heads
 - Cloth Config API
 - Detail Armor Bar
-- (Distant Horizons)
-- (Dynamic Lights)
-- Enhanced Block Entities [PREVIEW]
+- Distant Horizons [ALPHA]
+- Dynamic Lights
+- Enhanced Block Entities
 - Entity Culling
 - Essential
 - Fabric API
-- FerriteCore [BETA]
+- FerriteCore
 - ImmediatelyFast
 - Indium
 - Iris
 - Lithium
-- (Memory Leak Fix)
 - MidnightLib
 - ModernFix
-- Mod Menu [BETA]
+- Mod Menu
 - More Chat History
-- More Culling
+- More Culling [PREBUILD]
 - No Chat Reports
-- (Noisium)
+- Noisium
 - Nvidium [BETA]
 - OfflineSkins
 - (Raised)
 - Reese's Sodium Options
 - Sodium
 - Sodium Extra
+- TCDCommons API
 
 (...) = not yet updated
 
@@ -56,10 +55,9 @@ Optimisation and Quality of Life mods for Minecraft.
 
 ### Resource packs
 
-- Banners on Beds
 - Better Enchantment Names
+- Visual Brush Durability
 - VanillaTweaks:
-  - JappaToasts
   - JappaStatsIcons
   - JappaSpecIcons
   - RedstoneWireFix
@@ -71,41 +69,51 @@ Optimisation and Quality of Life mods for Minecraft.
   - BlazeFix
   - SlimeParticleFix
   - IronBarsFix
-  - LiteralGameruleNames
+  - CloudFogFix
+  - UniqueDyes
   - PingColorIndicator
+  - LiteralGameruleNames
   - UnobtrusiveRain
+  - UnobtrusiveSnow
   - LowerFire
+  - LowerShield
+  - TransparentPumpkin
   - DiminishingTools
+  - DifferentStems
   - Age25Kelp
   - ClearBannerPatterns
   - StickyPistonSides
   - DirectionalDispensersDroppers
+  - GroovyLevers
   - BrewingGuide
   - VisualHoney
   - VisualSaplingGrowth
+  - VariatedVillagers
   - CircularSunandMoon
   - CircleLogTops
+  - BrighterNether
   - FancySunflowers
   - ShorterGrass
   - ShorterTallGrass
-  - DifferentStems
   - RedIronGolemFlowers
   - HDShieldBanners
-  - UniqueDyes
   - AnimatedCampfireItem
   - SplashXpBottle
-  - ProperBreakParticles
-  - DirectionalHoppers
-  - SoulSoilSoulCampfire
-  - AshlessCampfires
-  - JappaObserver
-  - BetterObservers
   - NoBowlParticles
   - ItemHoldFix
+  - ProperBreakParticles
+  - DirectionalHoppers
+  - JappaObserver
+  - BetterObservers
+  - SoulSoilSoulCampfire
+  - AshlessCampfires
 
-### Datapacks [NOT YET]
+### Datapacks
 
-- Banners on Beds
+- AFK Display
+- Banner Bedsheets
+- Coordinates HUD
+- Mini Blocks
 - More Mob Heads
 - Nether Portal Coords
 - Player Head Drops
@@ -113,11 +121,14 @@ Optimisation and Quality of Life mods for Minecraft.
 - Spawning Spheres
 - Spectator Conduit Power
 - Spectator Night Vision
+- Track Raw Statistics
+- Track Statistics
 - Crafting Tweaks:
-  - dropper to dispenser
-  - universal dyeing
-  - blackstone cobblestone
-  - powder to glass
+  - Blackstone Cobblestone
+  - Dropper to Dispenser
+  - Powder to Glass
+  - Straight to Shapeless
+  - Universal Dyeing
 
 ### Other
 

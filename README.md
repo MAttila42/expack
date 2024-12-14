@@ -1,11 +1,11 @@
-# ExPack for Minecraft 1.21
+# ExPack for Minecraft 1.21.4
 
 Optimisation and Quality of Life mods for Minecraft.
 
 ## To use
 
  1. Run the Fabric installer
- 2. Copy `config`, `mods`, `resourcepacks`, `shaderpacks`, `options.txt` into the Minecraft folder*
+ 2. Copy `mods`, `resourcepacks`, `shaderpacks`, `options.txt` into the Minecraft folder*
  3. Copy `datapacks` in any world you fancy
 
 (* default path: `%appdata%/.minecraft`)
@@ -15,32 +15,32 @@ Optimisation and Quality of Life mods for Minecraft.
 ### Mods
 
 - BadOptimizations
-- Better Ping Display
+- (Better Ping Display)
 - Better Statistics Screen
 - Bobby
 - Chat Heads
 - Cloth Config API
 - Detail Armor Bar
-- Distant Horizons [ALPHA]
+- Distant Horizons [NIGHTLY]
 - Dynamic Lights
-- Enhanced Block Entities
 - Entity Culling
 - Essential
 - Fabric API
+- Fabric Language Kotlin
 - FerriteCore
 - ImmediatelyFast
-- Indium
 - Iris
 - Lithium
 - MidnightLib
-- ModernFix
+- (ModernFix)
 - Mod Menu
-- More Chat History
-- More Culling [PREBUILD]
+- (More Chat History)
+- More Culling
 - No Chat Reports
 - Noisium
-- Nvidium [BETA]
+- (Nvidium)
 - OfflineSkins
+- OptiGUI
 - (Raised)
 - Reese's Sodium Options
 - Sodium
@@ -62,21 +62,16 @@ Optimisation and Quality of Life mods for Minecraft.
   - RedstoneWireFix
   - DripleafFixBig
   - DripleafFixSmall
-  - ConsistentUIFix
   - ConsistentDecorPot
   - CactusBottomFix
-  - BlazeFix
   - SlimeParticleFix
+  - BlazeFix
   - IronBarsFix
-  - CloudFogFix
   - UniqueDyes
-  - PingColorIndicator
-  - LiteralGameruleNames
   - UnobtrusiveRain
   - UnobtrusiveSnow
   - LowerFire
   - LowerShield
-  - TransparentPumpkin
   - DiminishingTools
   - DifferentStems
   - Age25Kelp
@@ -84,13 +79,11 @@ Optimisation and Quality of Life mods for Minecraft.
   - StickyPistonSides
   - DirectionalDispensersDroppers
   - GroovyLevers
-  - BrewingGuide
+  - CompassLodestone
   - VisualHoney
   - VisualSaplingGrowth
   - VariatedVillagers
-  - CircularSunandMoon
   - CircleLogTops
-  - BrighterNether
   - FancySunflowers
   - ShorterGrass
   - ShorterTallGrass
@@ -98,6 +91,7 @@ Optimisation and Quality of Life mods for Minecraft.
   - HDShieldBanners
   - AnimatedCampfireItem
   - SplashXpBottle
+  - MossCarpetOverhang
   - NoBowlParticles
   - ItemHoldFix
   - ProperBreakParticles
@@ -131,4 +125,4 @@ Optimisation and Quality of Life mods for Minecraft.
 
 ### Other
 
-Custom options.txt and configs
+Custom options.txt

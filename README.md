@@ -23,7 +23,6 @@ Optimisation and Quality of Life mods for Minecraft.
 - Cloth Config API
 - (Detail Armor Bar)
 - (Distant Horizons)
-- Dynamic Lights
 - Entity Culling
 - Essential
 - Fabric API
@@ -31,6 +30,7 @@ Optimisation and Quality of Life mods for Minecraft.
 - FerriteCore
 - ImmediatelyFast
 - Iris
+- LambDynamicLights
 - Lithium
 - MidnightLib
 - (ModernFix)

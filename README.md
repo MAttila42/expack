@@ -1,4 +1,4 @@
-# ExPack for Minecraft 1.21.4
+# ExPack for Minecraft 1.21.6
 
 Optimisation and Quality of Life mods for Minecraft.
 
@@ -16,12 +16,13 @@ Optimisation and Quality of Life mods for Minecraft.
 
 - BadOptimizations
 - (Better Ping Display)
-- Better Statistics Screen
+- Better Mount HUD
+- Better Statistics Screen [BETA]
 - Bobby
 - Chat Heads
 - Cloth Config API
-- Detail Armor Bar
-- Distant Horizons [NIGHTLY]
+- (Detail Armor Bar)
+- (Distant Horizons)
 - Dynamic Lights
 - Entity Culling
 - Essential
@@ -33,19 +34,20 @@ Optimisation and Quality of Life mods for Minecraft.
 - Lithium
 - MidnightLib
 - (ModernFix)
-- Mod Menu
+- Mod Menu [BETA]
 - (More Chat History)
-- More Culling
+- More Culling [BETA]
 - No Chat Reports
 - Noisium
-- (Nvidium)
-- OfflineSkins
-- OptiGUI
-- (Raised)
+- Nvidium [PORT/BETA]
+- (OfflineSkins)
+- OptiGUI [BETA]
+- Raised
 - Reese's Sodium Options
-- Sodium
+- Shulker Box Tooltip
+- Sodium [BETA]
 - Sodium Extra
-- TCDCommons API
+- TCDCommons API [BETA]
 
 (...) = not yet updated
 
@@ -56,6 +58,7 @@ Optimisation and Quality of Life mods for Minecraft.
 ### Resource packs
 
 - Visual Brush Durability
+- Colourful Containers
 - VanillaTweaks:
   - JappaStatsIcons
   - JappaSpecIcons
@@ -105,6 +108,7 @@ Optimisation and Quality of Life mods for Minecraft.
 
 - AFK Display
 - Banner Bedsheets
+- BlazeandCave's Advancements Pack
 - Coordinates HUD
 - Mini Blocks
 - More Mob Heads
